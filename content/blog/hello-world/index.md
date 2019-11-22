@@ -1,22 +1,16 @@
 ---
-title: Hello World
+title: Research Data
 date: "2015-05-01T22:12:03.284Z"
 thumbnail: ./salty_egg.jpg
 ---
 
-This is my first post on my new fake blog! How exciting!
+Research Data is rarely repurposed across Funding Sources and Research Labs.
 
-I'm sure I'll write a lot more interesting things in the future.
+> Data Repository: We are proposing combining the digital outputs from the two EH-funded studies into a shared HIPPA-compliant comprehensive data repository to in the future for all pediatric cardiac transplant patients.
+> Patient Data Insights: Our initial use case is bringing together four Datasets by developing a tools for secure, privacy-preserving, value-aligned Pediatric Heart Transplant Research data to be re-used.
+> Community Leadership We make the process of sharing data across grant recipients, easy, efficient, and secure.
+> IP Creation: Data required for building Software as Medical Devices (SaMD).
 
-Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
-
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
 
 ![Chinese Salty Egg](./salty_egg.jpg)

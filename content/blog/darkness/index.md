@@ -1,15 +1,11 @@
 ---
-title: Darkness
+title: Data Rights
 date: "2019-05-08"
 thumbnail: ./bbbb.jpg
-description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
+description: Data and Models can will be shared and governed by multiple owners, both the grant recipient, as well as the grant giving agency.
 ---
 
-### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)
-
-I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.
-
-This is the final render.
+### Data and Models can will be shared and governed by multiple owners, both the grant recipient, as well as the grant giving agency. [Avi Yashchin](https://www.linkedin.com/in/aviyashchin)
 
 <div class="kg-card kg-image-card kg-width-full">
 

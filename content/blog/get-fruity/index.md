@@ -1,8 +1,8 @@
 ---
-title: Get fruity
+title: IP Creation
 date: "2019-05-02"
 thumbnail: ./mike-dorner-173502-unsplash.jpg
-description: A deep investigation into the pastel properties of colourful fruit and their psychological effects on hamsters
+description: Data required for building Software as Medical Devices (SaMD).
 ---
 
 ![Fruits](./mike-dorner-173503-unsplash.jpg)

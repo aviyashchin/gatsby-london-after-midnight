@@ -1,8 +1,8 @@
 ---
-title: Clean lines
+title: Data Repository
 date: "2019-05-05"
 thumbnail: ./matthew-hamilton-351641-unsplash.jpg
-description: Let your hair down and paint the town red
+description: We are proposing combining the digital outputs from the two EH-funded studies into a shared HIPPA-compliant comprehensive data repository to in the future for all pediatric cardiac transplant patients.
 ---
 
 ![Clean lines](./clem-onojeghuo-207792-unsplash.jpg)

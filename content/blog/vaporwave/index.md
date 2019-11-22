@@ -1,10 +1,12 @@
 ---
-title: Vaporwave
+title: Data Sharing
 date: "2019-11-11"
-tags: [vaporwave,retrowave,future-funk]
-description: I think the most trendy is the oldest. Vaporwave is an Internet-based microgenre that was built upon the experimental and ironic tendencies of genres such as chillwave and hypnagogic pop.
+tags: [vaporwave, retrowave, future-funk]
+description: Traditionally, Research is not been shared across Hospitals. Our goal is to accelerate learning in the Heart Biopsy space as quickly as possible by building a repository of patient data including Biopsy Imaging data, ECHO Data, PHTS Data, and OMICS.
 ---
 
-It draws primarily on musical and cultural sources from the 1980s and early 1990s while also being associated with an ambiguous or satirical take on consumer capitalism and technoculture. Early incarnations of vaporwave relied on the sampling of sources such as Japanese city pop, smooth jazz, retro elevator music, R&B, lounge music, and dance music from the 1980s and 1990s.
+Data Rights: Data and Models can will be shared and governed by multiple owners, both the grant recipient, as well as the grant giving agency.
+Reproducibility Crisis: The mission of the The DST community is to create an accessible ecosystem of data in the pediatric heart transplant space for private, secure, multi-owner governed Decision Support Models.
+Compute as an input to therapy: New treatments require multiple datasets.
 
-* See the [Wikipedia](https://en.wikipedia.org/wiki/Vaporwave) for more information.
+- See the [Wikipedia](https://en.wikipedia.org/wiki/Vaporwave) for more information.

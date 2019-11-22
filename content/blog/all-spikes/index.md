@@ -1,8 +1,8 @@
 ---
-title: All spikes
+title: Patient Data Insights
 date: "2019-05-04"
 thumbnail: ./charles-deluvio-695732-unsplash.jpg
-description: A cactus doesn't live in the desert because it likes the desert; it lives there because the desert hasn't killed it yet.
+description: Our initial use case is bringing together four Datasets by developing a tools for secure, privacy-preserving, value-aligned Pediatric Heart Transplant Research data to be re-used.
 ---
 
 ![Cactus](./charles-deluvio-695757-unsplash.jpg)
